@@ -1,6 +1,6 @@
 # 2017 Solar Eclipse Traffic Visualization
 
-See the finished product: (youtube link)
+See the finished product: https://youtu.be/AVwWofUFl3k
 
 This project periodically fetches a map of the current traffic conditions
 in the United States. I ran it during the day of the 2017 solar eclipse
