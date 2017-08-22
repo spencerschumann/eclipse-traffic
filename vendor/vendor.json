@@ -1,0 +1,115 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "OT4XN9z5k69e2RsMSpwW74B+yk4=",
+			"path": "github.com/blang/semver",
+			"revision": "2ee87856327ba09384cabd113bc6b5d174e9ec0f",
+			"revisionTime": "2017-07-27T06:48:18Z"
+		},
+		{
+			"checksumSHA1": "aJ/kX/eCUlrCJBZ26Hwh/RXzAIw=",
+			"path": "github.com/golang/freetype/raster",
+			"revision": "e2365dfdc4a05e4b8299a783240d4a7d5a65d4e4",
+			"revisionTime": "2017-06-09T00:35:04Z"
+		},
+		{
+			"checksumSHA1": "I3u9Uh9thka1gsgch6QEiPkaAr0=",
+			"path": "github.com/golang/freetype/truetype",
+			"revision": "e2365dfdc4a05e4b8299a783240d4a7d5a65d4e4",
+			"revisionTime": "2017-06-09T00:35:04Z"
+		},
+		{
+			"checksumSHA1": "BhI7MZxuX2JKXY1VravOQJiDLAE=",
+			"path": "github.com/llgcode/draw2d",
+			"revision": "dcbfbe505d35de8166ccfc47ff9e4bb020473e18",
+			"revisionTime": "2017-05-13T09:26:31Z"
+		},
+		{
+			"checksumSHA1": "04IVHArLe4lH6hwzpQrIhuJ92fQ=",
+			"path": "github.com/llgcode/draw2d/draw2dbase",
+			"revision": "dcbfbe505d35de8166ccfc47ff9e4bb020473e18",
+			"revisionTime": "2017-05-13T09:26:31Z"
+		},
+		{
+			"checksumSHA1": "inDKxVFa6iMet6S+HKxTIAODq0c=",
+			"path": "github.com/llgcode/draw2d/draw2dimg",
+			"revision": "dcbfbe505d35de8166ccfc47ff9e4bb020473e18",
+			"revisionTime": "2017-05-13T09:26:31Z"
+		},
+		{
+			"checksumSHA1": "lckPqbVVrbtYLj5nlSzKkufZ4Tk=",
+			"path": "github.com/llgcode/draw2d/resource",
+			"revision": "dcbfbe505d35de8166ccfc47ff9e4bb020473e18",
+			"revisionTime": "2017-05-13T09:26:31Z"
+		},
+		{
+			"checksumSHA1": "OQh7xlFsz7CpZZ5d6Trp5rO+k4s=",
+			"path": "github.com/llgcode/draw2d/resource/font",
+			"revision": "dcbfbe505d35de8166ccfc47ff9e4bb020473e18",
+			"revisionTime": "2017-05-13T09:26:31Z"
+		},
+		{
+			"checksumSHA1": "rJab1YdNhQooDiBWNnt7TLWPyBU=",
+			"path": "github.com/pkg/errors",
+			"revision": "c605e284fe17294bda444b34710735b29d1a9d90",
+			"revisionTime": "2017-05-05T04:36:39Z"
+		},
+		{
+			"checksumSHA1": "61Y2zj0fMDI7V/mBiWHueoDSxSo=",
+			"path": "github.com/tebeka/selenium",
+			"revision": "988bde781626af3a05cbed33a347173400789d07",
+			"revisionTime": "2017-08-21T16:27:34Z"
+		},
+		{
+			"checksumSHA1": "gjVGcbxJPgXZoFZ0NcL+xwlT7B0=",
+			"path": "github.com/tebeka/selenium/chrome",
+			"revision": "988bde781626af3a05cbed33a347173400789d07",
+			"revisionTime": "2017-08-21T16:27:34Z"
+		},
+		{
+			"checksumSHA1": "pJzQmkluRgGw+YuIGXRO0Rt341A=",
+			"path": "github.com/tebeka/selenium/firefox",
+			"revision": "988bde781626af3a05cbed33a347173400789d07",
+			"revisionTime": "2017-08-21T16:27:34Z"
+		},
+		{
+			"checksumSHA1": "ylpVK190UNacSoypkGH6Zm2hDmM=",
+			"path": "github.com/tebeka/selenium/internal/zip",
+			"revision": "988bde781626af3a05cbed33a347173400789d07",
+			"revisionTime": "2017-08-21T16:27:34Z"
+		},
+		{
+			"checksumSHA1": "wI5u2EBgH8DlRQyGrClS4qxX4RU=",
+			"path": "github.com/tebeka/selenium/log",
+			"revision": "988bde781626af3a05cbed33a347173400789d07",
+			"revisionTime": "2017-08-21T16:27:34Z"
+		},
+		{
+			"checksumSHA1": "ZEEyhXypFFC4N9ZiiQlgO5VjqU4=",
+			"path": "golang.org/x/image/draw",
+			"revision": "426cfd8eeb6e08ab1932954e09e3c2cb2bc6e36d",
+			"revisionTime": "2017-05-14T06:33:48Z"
+		},
+		{
+			"checksumSHA1": "+U1IB5N4LDS74y4fXjARb4/S4IE=",
+			"path": "golang.org/x/image/font",
+			"revision": "426cfd8eeb6e08ab1932954e09e3c2cb2bc6e36d",
+			"revisionTime": "2017-05-14T06:33:48Z"
+		},
+		{
+			"checksumSHA1": "o7VkCGBiKM5HXzVzrIci1YDlpvc=",
+			"path": "golang.org/x/image/math/f64",
+			"revision": "426cfd8eeb6e08ab1932954e09e3c2cb2bc6e36d",
+			"revisionTime": "2017-05-14T06:33:48Z"
+		},
+		{
+			"checksumSHA1": "euzvwlMLxyD0hwc+raoVsDLv6j4=",
+			"path": "golang.org/x/image/math/fixed",
+			"revision": "426cfd8eeb6e08ab1932954e09e3c2cb2bc6e36d",
+			"revisionTime": "2017-05-14T06:33:48Z"
+		}
+	],
+	"rootPath": "traffic"
+}
